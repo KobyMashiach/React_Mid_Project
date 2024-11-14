@@ -1,0 +1,8 @@
+#main_div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100vw - 100px);
+  margin: 20px;
+  gap: 20px;
+}
